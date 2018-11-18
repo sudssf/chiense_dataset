@@ -7,5 +7,6 @@ chinese dataset collected from datasources
 
 
 # Centicorp from 
+https://github.com/Tony607/Chinese_sentiment_analysis.git
 https://github.com/BUPTLdy/Sentiment-Analysis
 
